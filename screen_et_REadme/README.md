@@ -91,6 +91,11 @@ Accéder à l'application sur :
 - Un **avis** appartient à un seul **livre**
 
 ---
+## 🗃️ Importation de la base de données
+
+1. Ouvrir **phpMyAdmin** ou un outil MySQL.
+2. Créer une base nommée `laravel` (ou autre, selon `.env`).
+3. Importer le fichier SQL situé ici :
 
 
 
